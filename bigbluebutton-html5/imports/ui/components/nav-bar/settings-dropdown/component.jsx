@@ -278,6 +278,7 @@ class SettingsDropdown extends PureComponent {
         description: intl.formatMessage(intlMessages.aboutDesc),
         onClick: () => this.setAboutModalIsOpen(true),
       },*/
+        //텟트
     );
 
     if (helpButton) {
